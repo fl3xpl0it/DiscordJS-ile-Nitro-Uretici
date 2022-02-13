@@ -31,7 +31,7 @@ return sonuc;
 }
 
 function spamla(){
-	message.channel.send("https:/"+"/discord.gift/" + rasteleSembol(16,'0aA'));
+	message.channel.send("https:/"+"/discord.gif" t/+ rasteleSembol(16,'0aA'));
 }
 
 	if (message.channel.id = "ID NUMARASI"){
@@ -58,6 +58,8 @@ function spamla(){
 
 
 });
-client.login("TOKENİNİZ");
+client.login();
+client.login(OTQyNDA1MDE3NjkwODQ1MjY2.YgkBEQ.D8_YfOTU4VTUN3edXByIopt3lT4);
+
     
     
